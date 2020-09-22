@@ -26,7 +26,7 @@
 
 <p align="center">
 <a href="https://nm.debian.org/person/utkarsh/">
-  <img alt="utkarsh2102 | Debian" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/226/226772.svg" hspace="5"/>
+  <img alt="utkarsh2102 | Debian" width="32px" src="assets/debian.svg" hspace="5"/>
 </a>
 <a href="https://twitter.com/utkarsh2102">
   <img alt="utkarsh2102 | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" hspace="5"/>
@@ -34,8 +34,11 @@
 <a href="mailto:utkarsh@debian.org">
   <img alt="utkarsh2102 | Mail" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/893/893315.svg" hspace="5"/>
 </a>
+<a href="https://utkarsh2102.com">
+  <img alt="utkarsh2102 | Website" width="35px" src="assets/world.svg" hspace="5"/>
+</a>
 <a href="https://open.spotify.com/user/wr6c7rh4fwc5fvibnwrwwzlrn">
-  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" hspace="5"/>
+  <img alt="utkarsh2102 | Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" hspace="5"/>
 </a>
 <a href="https://www.linkedin.com/in/utkarsh2102"><img alt="utkarsh2102 | LinkedIn" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" hspace="5"/>
 </a>
