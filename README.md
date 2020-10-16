@@ -12,9 +12,9 @@
   <br/>
   <br/>
   I am also a <a href="https://wiki.debian.org/DebianDeveloper">Debian core developer</a>,
-  maintaining & working on over 900+ packages (written in C, C++, Go, Python, JavaScript,
-  Ruby, and Perl), including some key packages like the Ruby interpreter, Rails, GitLab,
-  Micro, and libgit2. Besides, I also co-maintain the
+  maintaining & working on over 900+ packages (written in C, C++, Python, Ruby, JavaScript,
+  Go, and Perl), including some key packages like the Ruby interpreter, Rails, GitLab,
+  some Python libraries, Micro, and libgit2. Besides, I also co-maintain the
   <a href="https://fasttrack.debian.net/">fasttrack.debian.net</a> service & act as an
   <a href="https://ftp-master.debian.org/">FTP Trainee</a>.
   <br/>
@@ -23,7 +23,7 @@
   twice (once in
   <a href="https://summerofcode.withgoogle.com/archive/2019/projects/6014695855620096/">2019</a>
   and then in <a href="https://summerofcode.withgoogle.com/projects/#6589566074486784">2020</a>),
-  both times in Debian, where I authored my almost-first "baby" project,
+  both times in Debian, where I authored my "baby" project,
   <a href="https://github.com/utkarsh2102/rubocop-packaging">RuboCop::Packaging</a>,
   which is a linter and an auto-corrector, written in Ruby, helping downstream Ruby
   teams of Debian, Ubuntu, Fedora, openSUSE, et al.
