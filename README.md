@@ -22,7 +22,7 @@
   I was <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> student
   twice (once in
   <a href="https://summerofcode.withgoogle.com/archive/2019/projects/6014695855620096/">2019</a>
-  and then in <a href="https://summerofcode.withgoogle.com/projects/#6589566074486784">2020</a>),
+  and then in <a href="https://summerofcode.withgoogle.com/archive/2020/projects/4736285727522816/">2020</a>),
   both times in Debian, where I authored my "baby" project,
   <a href="https://github.com/utkarsh2102/rubocop-packaging">RuboCop::Packaging</a>,
   which is a linter and an auto-corrector, written in Ruby, helping downstream Ruby
